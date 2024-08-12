@@ -1,0 +1,5 @@
+print("personal information")
+print("name         : lingeshwar")
+print("father name  : sakthivel")
+print("mother name  :jayabharathi")
+print("brother name :jagadeeshwaran")
